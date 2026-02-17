@@ -1,0 +1,2 @@
+hashcat -m 100 -a 0 hash.txt ../dictionary-list.txt\?token=eyJ1c2VyX2lkIjo3MDE1LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoyNX0.aZTTnA.0b8Di5U439USl1hCJIGzaLcJ2AI
+hashcat -m 100 a2dc34c472fb6f5732a9a3ce7be31a8afe4b7510 --show
