@@ -1,0 +1,2 @@
+john --format=crypt hash.txt --wordlist=../dictionary-list.txt\?token=eyJ1c2VyX2lkIjo3MDE1LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoyNX0.aZgVaA.ggYx5Y-sisjvDHjflEb4IZ2BWCQ
+john hash.txt --show
