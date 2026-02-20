@@ -1,0 +1,3 @@
+oscar:remissness:19408:0:99999:7:::
+
+1 password hash cracked, 0 left
